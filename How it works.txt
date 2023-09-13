@@ -1,0 +1,1 @@
+It just works by geting ur ip and adding it to ipinfo page then reterns the out put in json then just print the result in the terminal
