@@ -8,7 +8,19 @@ var (
 	rootCmd = &cobra.Command{
 		Use:   "cobra-cli",
 		Short: "IP Tracker - CLI App",
-		Long:  `IP Tracker - CLI App`,
+		Long: `
+		
+		   (
+			\
+			 )
+		##-------->        IP
+			 )
+			/
+		   (
+
+			IP Tracker - CLI App
+
+		`,
 	}
 )
 
